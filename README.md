@@ -1,5 +1,3 @@
-# kaggle-housing-price-prediction
-
 # Comment Category Prediction Challenge
 **Kaggle Competition | IIT Madras BS in Data Science & Applications**
 
